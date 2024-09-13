@@ -1,1 +1,98 @@
-# pessoal-pagina
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Serviços de marketing digital e publicidade paga para ajudar o seu negócio a crescer.">
+    <title>Página Pessoal - Marketing Digital</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #ff4500;
+            color: white;
+            padding: 20px;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            padding: 10px;
+            background-color: #333;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            margin: 10px;
+            background-color: white;
+            border-radius: 8px;
+        }
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+        .cta-button {
+            display: inline-block;
+            padding: 10px 20px;
+            background-color: #ff4500;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Marketing Digital e Publicidade Paga</h1>
+    <p>Acelere o crescimento do seu negócio com estratégias eficazes.</p>
+</header>
+
+<nav>
+    <a href="#sobre">Sobre</a>
+    <a href="#servicos">Serviços</a>
+    <a href="#contacto">Contacto</a>
+</nav>
+
+<section id="sobre">
+    <h2>Sobre Mim</h2>
+    <p>Sou um especialista em marketing digital com mais de 5 anos de experiência, ajudando empresas a escalar através de estratégias personalizadas de tráfego pago e marketing online.</p>
+</section>
+
+<section id="servicos">
+    <h2>Serviços</h2>
+    <ul>
+        <li>Gestão de campanhas de publicidade no Google e Facebook</li>
+        <li>Estratégias de SEO para aumento de visibilidade</li>
+        <li>Criação de conteúdo otimizado para redes sociais</li>
+        <li>Consultoria personalizada para crescimento digital</li>
+    </ul>
+    <a href="#contacto" class="cta-button">Contratar Serviços</a>
+</section>
+
+<section id="contacto">
+    <h2>Contacto</h2>
+    <p>Entre em contacto comigo através do e-mail: <a href="mailto:email@exemplo.com">email@exemplo.com</a></p>
+</section>
+
+<footer>
+    <p>© 2024 - Página Pessoal de Marketing Digital</p>
+</footer>
+
+</body>
+</html>
